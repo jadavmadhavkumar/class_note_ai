@@ -2,22 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        h1, h2, h3 {
-            color: #333;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 3px;
-            overflow-x: auto;
-        }
-    </style>
+    
 </head>
 <body>
 
