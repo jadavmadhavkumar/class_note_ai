@@ -1,5 +1,4 @@
 
-You can place this content in a `README.md` file within your GitHub repository to provide documentation and code examples for users. Each section is clearly labeled and includes the relevant Python code for different distance calculations.
 <!DOCTYPE html>
 <html>
 <head>
